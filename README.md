@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhilipsa</h1>
+
+
+<p align="center" width="100%"> <img width=" 33%" src="https://user-images.githubusercontent.com/80174214/147946998-16aa9c8b-c295-463a-bf66-8393fd8e23db.gif" alt="Marceline"/> </p>
+
 <h3 align="center">A Computer Science undergrad from Bhubaneswar, India.</h3>
 
-- 🌱 I’m currently learning **Microsoft Azure Fundamentals**
+- 🌱 Currently learning: **Microsoft Azure Fundamentals**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/abhilipsasahoo03](https://github.com/abhilipsasahoo03)
 
@@ -9,7 +13,7 @@
 
 - 🖥 I'm also on: [https://devpost.com/abhilipsasahoo03](https://devpost.com/abhilipsasahoo03?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) 
 
-- ⚡ Fun fact **I'm an ice cream connoisseur who loves to write poems!**
+- ⚡ Fun fact: **I'm an ice cream connoisseur who loves to write poems!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
