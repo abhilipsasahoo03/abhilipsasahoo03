@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhilipsa</h1>
 
 
-<p align="center" width="100%"> <img width="100%" src="https://user-images.githubusercontent.com/80174214/147950792-fbd3df37-5ea9-454b-81c9-2cc82f7e00f1.gif"
+<p align="center" width="100%"> <img width="65%" src="https://user-images.githubusercontent.com/80174214/147950792-fbd3df37-5ea9-454b-81c9-2cc82f7e00f1.gif"
 alt="Marceline"/> </p>
 
 <h3 align="center">Your Friendly Neighbourhood Computer Science Undergrad from Bhubaneswar, India.</h3>
