@@ -22,7 +22,7 @@ alt="Marceline"/> </p>
 <a href="https://linkedin.com/in/abhilipsa-sahoo-927542b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhilipsa-sahoo-927542b1" height="30" width="40" /></a>
 <a href="https://instagram.com/_abelisaurus_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abelisaurus_" height="30" width="40" /></a>
 <a href="https://medium.com/@abhilipsasahoo03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhilipsasahoo03" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/abhilipsasahoo03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abhilipsasahoo03" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UCQou4wzE0n2Ty1NRJauV1mQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abhilipsasahoo03" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abhilipsasahoo03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhilipsasahoo03" height="30" width="40" /></a>
 </p>
 
