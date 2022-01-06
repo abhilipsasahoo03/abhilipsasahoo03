@@ -8,7 +8,7 @@ alt="Marceline"/> </p>
 
 - 🌱 Currently learning: **Microsoft Azure Fundamentals**
 
-- 👨‍💻 All of my projects are available at: [https://github.com/abhilipsasahoo03](https://github.com/abhilipsasahoo03)
+- 👨‍💻 All of my projects (code and no-code) are available at: [https://github.com/abhilipsasahoo03](https://github.com/abhilipsasahoo03)
 
 - 📫 How to reach me: **abhilipsasahoo03@gmail.com**
 
