@@ -12,7 +12,9 @@ alt="Marceline"/> </p>
 
 - 📫 How to reach me: **abhilipsasahoo03@gmail.com**
 
-- 🖥 I'm also on: [https://devpost.com/abhilipsasahoo03](https://devpost.com/abhilipsasahoo03?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) 
+- 🖥 I'm also on: [https://devpost.com/abhilipsasahoo03](https://devpost.com/abhilipsasahoo03?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+
+- 💻 You can also find me at: https://g.dev/abhilipsasahoo03
 
 - ⚡ Fun fact: **I'm an ice cream connoisseur who loves to write poems!**
 
