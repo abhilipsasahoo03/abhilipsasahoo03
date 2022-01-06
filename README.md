@@ -8,13 +8,13 @@ alt="Marceline"/> </p>
 
 - 🌱 Currently learning: **Microsoft Azure Fundamentals**
 
-- 👨‍💻 All of my projects (code and no-code) are available at: [https://github.com/abhilipsasahoo03](https://github.com/abhilipsasahoo03)
+- 👨‍💻 All of my projects (code and no-code) are available at: **[My GitHub](https://github.com/abhilipsasahoo03)**
 
-- 📫 How to reach me: **abhilipsasahoo03@gmail.com**
+- 📫 How to reach me: **[My email](abhilipsasahoo03@gmail.com)**
 
-- 🖥 I'm also on: [https://devpost.com/abhilipsasahoo03](https://devpost.com/abhilipsasahoo03?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+- 🖥 I'm also on **[Devpost](https://devpost.com/abhilipsasahoo03?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)**
 
-- 💻 You can also find me at: https://g.dev/abhilipsasahoo03
+- 💻 You can also find me at: **[My Google Developers account](https://g.dev/abhilipsasahoo03)**
 
 - ⚡ Fun fact: **I'm an ice cream connoisseur who loves to write poems!**
 
