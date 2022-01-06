@@ -37,7 +37,6 @@ alt="Marceline"/> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhilipsasahoo03&show_icons=true&locale=en&layout=compact" alt="abhilipsasahoo03" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhilipsasahoo03&theme=graywhite&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhilipsasahoo03&show_icons=true&locale=en" alt="abhilipsasahoo03" /></p>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhilipsasahoo03&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
