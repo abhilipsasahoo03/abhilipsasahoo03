@@ -7,8 +7,6 @@ alt="Marceline"/> </p>
 
 - 🌱 Currently learning: **Microsoft Azure Fundamentals**
 
-- 👨‍💻 All of my projects (code and no-code) are available at: **[My GitHub](https://github.com/abhilipsasahoo03)**
-
 - 📫 How to reach me: **[My email](abhilipsasahoo03@gmail.com)**
 
 - 🖥 I'm also on **[Devpost](https://devpost.com/abhilipsasahoo03?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)**
