@@ -13,7 +13,7 @@ alt="Marceline"/> </p>
 
 - 💻 You can also find me at: **[My Google Developers account](https://g.dev/abhilipsasahoo03)**
 
-- ⚡ Fun fact: **I'm an ice cream connoisseur who loves to write poems!**
+- ⚡ Fun fact: **I'm a forbidden ice cream connoisseur who loves to write poems!**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
