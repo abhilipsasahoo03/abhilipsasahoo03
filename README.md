@@ -3,7 +3,7 @@
 <h3 align= "center"> but you can also call me </h3>
 <h2 align="center">Your Friendly Neighbourhood Procrastinator from Bhubaneswar, India.</h2>
 
-<p align="center" width="100%"> <img width="65%" src="https://user-images.githubusercontent.com/80174214/147950792-fbd3df37-5ea9-454b-81c9-2cc82f7e00f1.gif"
+<p align="center"> <img width="75%" src="https://user-images.githubusercontent.com/80174214/147950792-fbd3df37-5ea9-454b-81c9-2cc82f7e00f1.gif"
 alt="Marceline"/> </p>
 
 <h2 align= "center"> About Me </h2>
