@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src= "https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40" height="40" /> Nice to have you here! </h1>
 <img  width = "100%" src= "https://user-images.githubusercontent.com/80174214/155683085-e9c5ac22-9fce-45b2-b3fd-d05ee505f572.png"/>
-<h3 align= "center"> but you can also call me </h3>
+<h3 align= "center"> (but you can also call me) </h3>
 <h2 align="center">Your Friendly Neighbourhood Procrastinator from Bhubaneswar, India.</h2>
 
 <p align="center"> <img width="75%" src="https://user-images.githubusercontent.com/80174214/147950792-fbd3df37-5ea9-454b-81c9-2cc82f7e00f1.gif"
