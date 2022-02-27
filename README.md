@@ -20,7 +20,7 @@ alt="Marceline"/> </p>
 
 -  **Know more about me from my playlist 👇🏼**
 
-<p align="center"><a href="https://open.spotify.com/playlist/1fAtXzDNAIqCeDC98nB3NE?si=X3bchEqeQnO-Lop0rTov7w&utm_source=copy-link" target="blank"><img align="center" src="https://user-images.githubusercontent.com/80174214/155876156-ad197a9f-8e57-4a89-8dd4-743b18bec93b.gif" alt="my_spotify" height="200" width="200" /></a></p>
+<p align="center"><a href="https://open.spotify.com/playlist/1fAtXzDNAIqCeDC98nB3NE?si=X3bchEqeQnO-Lop0rTov7w&utm_source=copy-link" target="blank"><img align="center" src="https://user-images.githubusercontent.com/80174214/155876867-8b576471-2d8f-416e-8a34-61171cdf6766.gif" alt="my_spotify" height="65" width="200" /></a></p>
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/_abelisaurus_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_abelisaurus_" height="30" width="40" /></a>
@@ -50,3 +50,6 @@ alt="java" height="38" width="38"/> </a>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhilipsasahoo03&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </details>
 </h3>
+
+
+
