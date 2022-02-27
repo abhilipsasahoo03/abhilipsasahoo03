@@ -18,6 +18,9 @@ alt="Marceline"/> </p>
 
 - ⚡ Fun fact: **I'm a forbidden ice cream connoisseur who loves to write poems!**
 
+<h5>Know more about me from my playlist 👇🏼</h5>
+
+
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/_abelisaurus_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_abelisaurus_" height="30" width="40" /></a>
@@ -37,9 +40,13 @@ alt="Marceline"/> </p>
 alt="java" height="38" width="38"/> </a>
 
 </p>
-
+<h3>
+<details>
+<summary>My GitHub Stats</summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhilipsasahoo03&show_icons=true&locale=en&layout=compact" alt="abhilipsasahoo03" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhilipsasahoo03&show_icons=true&locale=en" alt="abhilipsasahoo03" /></p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhilipsasahoo03&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</details>
+</h3>
