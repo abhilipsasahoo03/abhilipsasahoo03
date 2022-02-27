@@ -19,8 +19,9 @@ alt="Marceline"/> </p>
 - ⚡ Fun fact: **I'm a forbidden ice cream connoisseur who loves to write poems!**
 
 
-                        "People are like music. Some speak the truth, and others are just noise."
-
+```
+"People are like music. Some speak the truth, and others are just...plain noise."
+```
 
 <p align="center"><a href="https://open.spotify.com/playlist/1fAtXzDNAIqCeDC98nB3NE?si=X3bchEqeQnO-Lop0rTov7w&utm_source=copy-link" target="blank"><img align="center" src="https://user-images.githubusercontent.com/80174214/155876867-8b576471-2d8f-416e-8a34-61171cdf6766.gif" alt="my_spotify" height="65" width="200" /></a></p>
 
