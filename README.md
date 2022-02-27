@@ -18,9 +18,12 @@ alt="Marceline"/> </p>
 
 - ⚡ Fun fact: **I'm a forbidden ice cream connoisseur who loves to write poems!**
 
--  **Know more about me from my playlist 👇🏼**
+
+                        "People are like music. Some speak the truth, and others are just noise."
+
 
 <p align="center"><a href="https://open.spotify.com/playlist/1fAtXzDNAIqCeDC98nB3NE?si=X3bchEqeQnO-Lop0rTov7w&utm_source=copy-link" target="blank"><img align="center" src="https://user-images.githubusercontent.com/80174214/155876867-8b576471-2d8f-416e-8a34-61171cdf6766.gif" alt="my_spotify" height="65" width="200" /></a></p>
+
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/_abelisaurus_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_abelisaurus_" height="30" width="40" /></a>
