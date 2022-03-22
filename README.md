@@ -35,7 +35,7 @@ alt="Marceline"/> </p>
 <a href="https://m.twitch.tv/abhilipsasahoo03" target="blank"><img align="center" src="https://user-images.githubusercontent.com/80174214/150650563-01d7b76a-db88-4503-99ce-bdc2b4a7b2a9.png" alt="@abhilipsasahoo03" height="35" width="35" />
 </a>
 <a href="https://www.hackerrank.com/abhilipsasahoo03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhilipsasahoo03" height="30" width="40" /></a>
-<a href="https://www.codepen.io.com/abhilipsasahoo03" target="blank"><img align="center" src="https://user-images.githubusercontent.com/80174214/159558971-aa952d69-7211-4e50-af05-fecc77566b01.png" alt="abhilipsasahoo03" height="35" width="35"/>
+<a href="https://codepen.io/abhilipsasahoo03" target="blank"><img align="center" src="https://user-images.githubusercontent.com/80174214/159558971-aa952d69-7211-4e50-af05-fecc77566b01.png" alt="abhilipsasahoo03" height="35" width="35"/>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
