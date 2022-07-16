@@ -43,6 +43,10 @@ alt="Marceline"/> </p>
 <a href="https://docs.autocode.com/introduction-to-autocode/what-is-autocode/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/80174214/149564117-e23c6a22-cbd2-4e8f-86c9-2368a3337da2.png" alt="autocode" width="40" height="42"/> </a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/80174214/150648429-9d6d027d-4573-4eea-8924-e24b292d74ca.png"
 alt="java" height="38" width="38"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="38" height="38" /> </a>
+<a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/80174214/179352652-5fd377fe-0f4f-44f5-8dd8-6452d57b59db.jpg" alt="javascript" width="38" height="38" > </a>
+
+
 
 </p>
 <h3>
